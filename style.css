@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 10px;
+}
+.corpo{
+    text-align: left;
+    margin: 20px;
+    width: 100%;
+    max-width: 900px;
+    box-sizing: border-box;
+}
+h1{
+    font-family: Arial;
+    color: #9BF6FF;
+}
+h2{
+    font-family: Arial;
+    color: #A0C4FF;
+}
+h3{
+    font-family: Arial;
+    color: #FBE4FF;
+}
+ul{
+    font-family: Arial;
+    list-style-type: square;
+}
+.aviso{
+    font-family: Arial;
+    color: red;
+    border: 3px solid red;
+}
